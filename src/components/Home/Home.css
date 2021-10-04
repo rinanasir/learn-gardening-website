@@ -21,3 +21,13 @@
     font-size: 20px;
     padding-right: 25px;
 }
+.service-section{
+    border: 2px solid mediumvioletred;
+    border-radius: 10px;
+    margin: 20px;
+}
+.service-section h2{
+    color: mediumvioletred;
+    text-align: center;
+    font-weight: 20px;
+}
