@@ -1,22 +1,21 @@
-.plant-img img{
-    width: 280px;
-    height: 200;
-    padding-left: 30px;
-    padding-top: 10px;
+.pro-img img{
+    width: 200px;
+    height: 130;
+    padding-left: 75px;
+    padding-top: 20px;
 }
-.plant-item{
+.pro-item{
     border: 2px solid goldenrod;
     border-radius: 10px;
-    padding-bottom: 10px;
 }
-.plant-info{
+.pro-info{
     text-align: center;
     padding: 5px;
 }
-.text-bold{
+.bold{
     font-weight: bold;
 }
-.plant-item:hover{
+.pro-item:hover{
     background-color: rgb(176, 221, 145);
     box-shadow: 10px 10px 20px gray;
 }

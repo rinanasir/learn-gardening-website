@@ -10,6 +10,10 @@
 }
 .service-info{
     text-align: center;
+    padding: 5px;
+}
+.service-info p{
+    font-weight: 15px;
 }
 .service-style:hover{
     background-color: rgb(176, 221, 145);
