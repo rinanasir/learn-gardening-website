@@ -4,27 +4,27 @@
         "name": "Making a Garden",
         "img": "https://www.thewowdecor.com/wp-content/uploads/2020/07/Professional-Garden-Maintenance-696x464.jpg",
         "cost": 500,
-        "serivce": "We will help you to make a new garden accordig to your choice."
+        "activity": "We will help you to make a new garden accordig to your choice."
     },
     {
         "key": "BDCOX120",
         "name": "Cleaning",
         "img": "https://assets.thehansindia.com/h-upload/2021/06/08/1600x960_1080885-up-tree-plantation-drive.jpg",
         "cost": 300,
-        "serivce": "Being busy, you can't take care of you plants! We got you back."
+        "activity": "Being busy, you can't take care of you plants! We got you back."
     },
     {
         "key": "GER098OE",
         "name": "Removing weeds",
         "img": "https://simplysmartgardening.com/wp-content/uploads/2020/11/pulling-weeds.jpg",
         "cost": 100,
-        "serivce": "It's really hard to remove weeds regularly, we are here to make your life easy."
+        "activity": "It's really hard to remove weeds regularly, we are here to make your life easy."
     },
     {
         "key": "CND04TRN",
         "name": "Pest control",
         "img": "https://texanbynature.org/wp-content/uploads/2020/06/Picture1-768x469.png",
         "cost": 400,
-        "serivce": "Our pest controll depretment will save your garden from all kind of pests."
+        "activity": "Our pest controll depretment will save your garden from all kind of pests."
     }
 ]

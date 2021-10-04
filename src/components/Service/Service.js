@@ -3,11 +3,18 @@ import './Service.css'
 
 const Service = (props) => {
 
-    const { img, service, cost } = props.service;
+    const { name, img, activity, cost } = props.service;
 
     return (
-        <div className="service-item">
-            <img src={img} alt="" />
+        <div className="service-style">
+            <div>
+                <img src={img} alt="" />
+            </div>
+            <div className="service-info">
+                <h3>Service: {name}</h3>
+                <p>Price: ${cost}</p>
+                <p>Activity: {activity}</p>
+            </div>
         </div>
     );
 };

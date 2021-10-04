@@ -1,5 +1,17 @@
-.service-item img{
+.service-style img{
     width: 200px;
     height: 130px;
     padding: 10px;
+    padding-left: 70px;
+}
+.service-style{
+    border: 2px solid rgb(47, 128, 0);
+    border-radius: 10px;
+}
+.service-info{
+    text-align: center;
+}
+.service-style:hover{
+    background-color: rgb(176, 221, 145);
+    box-shadow: 10px 10px 20px gray;
 }

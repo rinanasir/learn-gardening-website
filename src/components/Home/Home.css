@@ -7,7 +7,7 @@
     display: flex;
     padding-top: 40px;
     padding-bottom: 40px;
-    border: 2px solid mediumvioletred;
+    border: 2px solid rgb(47, 128, 0);
     border-radius: 10px;
     margin: 20px;
 }
@@ -22,19 +22,19 @@
     padding-right: 25px;
 }
 .service-section{
-    border: 2px solid mediumvioletred;
+    border: 2px solid rgb(47, 128, 0);
     border-radius: 10px;
     margin: 20px;
 }
-.service-section h2{
+.service-section h1{
     color: mediumvioletred;
     text-align: center;
     font-weight: 20px;
 }
 .service-item{
-    padding-left: 50px;
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     grid-column-gap: 10px;
     grid-row-gap: 25px;
+    padding: 20px;
 }
