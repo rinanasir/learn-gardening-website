@@ -13,7 +13,7 @@ const Providing = (props) => {
                 </div>
                 <div className="pro-info">
                     <h3>Name: {name}</h3>
-                    <h4>Price: {cost}</h4>
+                    <h4>Price: ${cost}</h4>
                     <p><span className="bold">Work type: </span>{activity}</p>
                 </div>
             </div>
