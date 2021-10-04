@@ -1,0 +1,23 @@
+.starting-garden img{
+    width: 400px;
+    height: 300px;
+    padding-left: 100px;
+}
+.starting-garden{
+    display: flex;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    border: 2px solid mediumvioletred;
+    border-radius: 10px;
+    margin: 20px;
+}
+.garden-info{
+    padding-left: 10px;
+    color: mediumvioletred;
+    margin-right: 10px;
+}
+.garden-info p{
+    color: black;
+    font-size: 20px;
+    padding-right: 25px;
+}
