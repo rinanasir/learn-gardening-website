@@ -1,6 +1,6 @@
 # Welcome to this sample website about gardening
 
-You can visit the website here, [Gardening, know how](m-know-gardening.netlify.app).
+You can visit the website here, [Gardening, know how](https://m-know-gardening.netlify.app/).
 
 ## About this website
 
