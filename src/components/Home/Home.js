@@ -23,12 +23,12 @@ const Home = () => {
                 </div>
             </div>
             <div className="service-section">
-                <h1>Our Services</h1>
+                <h1>The Services we offer</h1>
                 <div className="service-item">
                     {
-                        services.map(service => <Service
-                            key={service.key}
-                            service={service}
+                        services.map(serve => <Service
+                            key={serve.key}
+                            serve={serve}
                         ></Service>)
                     }
                 </div>

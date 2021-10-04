@@ -1,0 +1,21 @@
+.about{
+    border: 2px solid goldenrod;
+    border-radius: 10px;
+    margin: 20px;
+}
+.about-style{
+    margin: 20px;
+    color: mediumvioletred;
+}
+.about-info{
+    margin: 20px;
+}
+.about-picture{
+    display: flex;
+}
+.about-info h3{
+    color: mediumvioletred;
+}
+.text-color{
+    color: mediumvioletred;
+}

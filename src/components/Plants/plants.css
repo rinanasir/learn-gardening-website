@@ -1,0 +1,13 @@
+.plants-item{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-column-gap: 10px;
+    grid-row-gap: 25px;
+    padding: 20px;
+}
+.more-plants{
+    text-align: center;
+    color: mediumvioletred;
+    padding-bottom: 50px;
+    margin-bottom: 50px;
+}

@@ -3,7 +3,7 @@ import './Service.css'
 
 const Service = (props) => {
 
-    const { name, img, activity, cost } = props.service;
+    const { name, img, activity, cost } = props.serve;
 
     return (
         <div className="service-style">
@@ -13,7 +13,7 @@ const Service = (props) => {
             <div className="service-info">
                 <h3>Service: {name}</h3>
                 <p>Price: ${cost}</p>
-                <p>Activity: {activity}</p>
+                <p>{activity}</p>
             </div>
         </div>
     );
