@@ -1,0 +1,10 @@
+.service-img img{
+    width: 280px;
+    height: 150px;
+    padding-left: 30px;
+    padding-top: 10px;
+}
+.service-hover:hover{
+    background-color: rgb(187, 230, 158);
+    box-shadow: 10px 10px 20px gray;
+}

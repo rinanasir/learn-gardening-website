@@ -4,9 +4,9 @@ import About from './components/About/About';
 import Footer from './components/Footer/Footer';
 import Header from './components/Header/Header';
 import Home from './components/Home/Home';
+import Learn from './components/Learn/Learn';
 import NotFound from './components/NotFound/NotFound';
-import Offers from './components/Offers/Offers';
-import Plants from './components/Plants/Plants';
+import Services from './components/Services/Services';
 
 function App() {
   return (
@@ -24,19 +24,19 @@ function App() {
           <Route path="/about">
             <About></About>
           </Route>
-          <Route path="/services">
-            <Offers></Offers>
+          <Route path='/services'>
+            <Services></Services>
           </Route>
-          <Route path="/plants">
-            <Plants></Plants>
+          <Route path='/learn'>
+            <Learn></Learn>
           </Route>
-          <Route path="*">
+          <Route path='*'>
             <NotFound></NotFound>
           </Route>
         </Switch>
 
+        <Footer></Footer>
       </Router>
-      <Footer></Footer>
     </div>
   );
 }

@@ -14,6 +14,13 @@
         "activity": "Being busy, you can't take care of you plants! We got you back."
     },
     {
+        "key": "AAR098OE",
+        "name": "Garden Pruning",
+        "img": "https://sunnyside-gardens.com/wp-content/uploads/2017/05/iStock-120917990-1500x1080.jpg",
+        "cost": 750,
+        "activity": "A full pruning to your garden will make your garden more beautifull."
+    },
+    {
         "key": "GER098OE",
         "name": "Removing weeds",
         "img": "https://simplysmartgardening.com/wp-content/uploads/2020/11/pulling-weeds.jpg",
@@ -26,5 +33,12 @@
         "img": "https://texanbynature.org/wp-content/uploads/2020/06/Picture1-768x469.png",
         "cost": 400,
         "activity": "Our pest controll depretment will save your garden from all kind of pests."
+    },
+    {
+        "key": "CNDwuTRN",
+        "name": "Plant Treatment",
+        "img": "https://mycosolutions.ch/wp-content/uploads/2019/11/Trichoderma-crumbles-from-the-tree-in-response-to-Trichoderma-treatment-1030x687.jpg",
+        "cost": 600,
+        "activity": "Treatment methods for your plant include tree spraying or injection of fungicide, medicines."
     }
 ]
