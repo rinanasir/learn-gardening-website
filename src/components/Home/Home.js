@@ -13,7 +13,7 @@ const Home = () => {
 
     return (
         <div>
-            <div className="flex starting-garden my-8 py-24">
+            <div className="flex starting-garden mt-8 py-10">
                 <div>
                     <img src="https://www.gardeningknowhow.com/wp-content/uploads/2020/08/fall-garden-guide-400x300.jpg" alt="garden" />
                 </div>
