@@ -10,8 +10,15 @@
         "key": "BDCOX120",
         "name": "Cleaning",
         "img": "https://hgtvhome.sndimg.com/content/dam/images/hgtv/stock/2017/7/25/iStock_Garden-weeds_611206154_xxlarge.jpg.rend.hgtvcom.966.644.suffix/1500997651801.jpeg",
-        "cost": 300,
+        "cost": 100,
         "activity": "Being busy, you can't take care of you plants! We got you back."
+    },
+    {
+        "key": "BDCOX120",
+        "name": "Choose Garden Type",
+        "img": "https://hgtvhome.sndimg.com/content/dam/images/grdn/fullset/2013/1/20/0/CI_intensive-gardening-allows-a-lot-of-produce-to-grow-in-a-small-space.jpg.rend.hgtvcom.616.462.suffix/1452644679836.jpeg",
+        "cost": 300,
+        "activity": "Learn types of garden and choose which type of garden you want."
     },
     {
         "key": "AAR098OE",
