@@ -21,8 +21,8 @@ const Learn = () => {
                         course={course}
                     ></Courses>)
                 }
-                <h1 className="text-center text-4xl font-bold text-pink-500 mt-20">More courses are comming soon...</h1>
             </div>
+            <h1 className="text-center text-4xl font-bold text-pink-500 pt-6">More courses are comming soon...</h1>
         </div>
     );
 };

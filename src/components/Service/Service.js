@@ -6,7 +6,7 @@ const Service = (props) => {
     const { name, img, activity, cost } = props.serviceItem;
 
     return (
-        <div className="service-img border border-pink-500 rounded-md service-hover">
+        <div className="service-img border border-pink-500 rounded-md pb-6 service-hover">
             <div>
                 <img src={img} alt="" />
             </div>
