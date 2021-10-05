@@ -18,7 +18,7 @@ const Learn = () => {
                 {
                     courses.map(course => <Courses
                         key={course.key}
-                        serviceItem={course}
+                        course={course}
                     ></Courses>)
                 }
                 <h1 className="text-center text-4xl font-bold text-pink-500 mt-20">More courses are comming soon...</h1>
